@@ -4,9 +4,9 @@ getting ready for mid term
 <html>
 <body>
 <h1> Welcome to my page</h1?
-<tile>My littlw friend Leo</tile>
+<tile>My little friend Leo</tile>
 <p>he is my best friend Leo my little golen retriver.</p>
 <br></br>
-<p>I miss him sometimes</p>
+<p>Best dog ever</p>
 </body
 </html>
